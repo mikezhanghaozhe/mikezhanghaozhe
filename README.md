@@ -49,3 +49,11 @@ I like math, reading, hiking, bouldering, and board games.
 ---
 
 > *“We must know. We will know.”* — David Hilbert
+
+<nav aria-label="The Rice Atlas" style="display:inline-flex;align-items:center;gap:12px;">
+  <a href="https://thericeatlas.com/nav.html?netid=NETID&amp;dir=prev" aria-label="Previous website in The Rice Atlas" style="color:inherit;padding:6px;">←</a>
+  <a href="https://thericeatlas.com/" aria-label="The Rice Atlas directory" style="padding:4px;">
+    <img src="https://thericeatlas.com/assets/owl-blue.svg" alt="The Rice Atlas" width="30" height="36" style="display:block;object-fit:contain;">
+  </a>
+  <a href="https://thericeatlas.com/nav.html?netid=NETID&amp;dir=next" aria-label="Next website in The Rice Atlas" style="color:inherit;padding:6px;">→</a>
+</nav>
