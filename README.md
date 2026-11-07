@@ -13,7 +13,7 @@ I like building things that are **cool and fun**, especially around:
 
 * 📚 **Open Source** — contributing to projects such as **JabRef** and learning how large production codebases actually work.
 
-* 🧠 **Learning & Research** — currently exploring reinforcement learning, concurrency, ML systems, and other fun systems problems at Rice.
+* 🧠 **Learning & Research** — currently writing a LLM from the scratch to learn its internal, exploring reinforcement learning, concurrency, ML systems, and other fun systems problems at Rice.
 
 
 ### What I have done in the past
@@ -35,8 +35,7 @@ If you're interested in cloud, AI, software engineering, meeting other builders,
 
 ### 🛠️ Things I use frequently
 
-`Python` `Java` `TypeScript` `C`
-`FastAPI` `Spring Boot` `React`
+`Python` `Go` `Java` `C` `TypeScript`
 `AWS` `GCP` `Docker` `Git`
 
 
